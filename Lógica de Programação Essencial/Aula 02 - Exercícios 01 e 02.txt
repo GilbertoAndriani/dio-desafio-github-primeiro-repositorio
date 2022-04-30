@@ -1,0 +1,32 @@
+Programas> https://github.com/UNIVALI-LITE/portugol-studio/releases/
+
+
+
+1 - Exercício 1> Crie um algoritmo do seu dia. 
+
+ACORDO
+LEVANTO
+TOMO BANHO
+ESCOVO OS DENTES
+TOMO REMÉDIOS
+TRABALHO
+
+SAIO PARA ALMOÇO
+VEJO SÉRIES
+RETORNO AO TRABALHO
+VOLTO PARA CASA
+ESTUDO
+JOGO
+VOU DORMIR 
+
+2 - Abra o site https://studio.code.org/s/mc/stage/1/puzzle/1
+
+Tente resolver todos os problemas em menos de uma hora. 
+
+
+3 - https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+
+
+
+

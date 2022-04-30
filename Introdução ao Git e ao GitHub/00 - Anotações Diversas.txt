@@ -1,0 +1,41 @@
+Link para download do Git>> https://git-scm.com/
+
+
+Aula 01 a 03 Introdução ao Git e ao GitHub
+Comandos básicos para um bom desempenho no terminal
+
+
+https://ss64.com/nt/echo.html
+https://answers.microsoft.com/en-us/windows/forum/all/what-happens-when-i-enter-rd-c-s-q-on-cmd/eabd1bee-9316-4e2d-9856-20a851bf4944
+https://www.colorconsole.de/console/br/012.htm
+https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/echo
+https://www.infoescola.com/informatica/comandos-basicos-do-ms-dos/#:~:text=CLS%20%E2%80%93%20Este%20comando%20limpa%20a,corrente%20com%20o%20nome%20especificado.
+https://en.wikipedia.org/wiki/Cd_(command)
+
+
+************************************************************************
+
+
+
+Aula 05 - Iniciando o Git e criando um commit
+
+Atalho Úteis: 
+
+"ctrol+L" > limpa pasta do Git Bash.
+"-a"      > Serva para mostrar pastas ocultas. 
+
+markdown 
+
+
+
+Aula 06 - Passo a passo no ciclo de vida
+
+C:\workspace\livro-receitas
+
+**********************************************************************************************************
+
+Aula 08 - Como os conflitos acontecem no GitHub e como resolvê-los
+
+http://github.com/python/cpython.git
+
+https://git-scm.com/book/pt-br/v2/Branches-no-Git-Branches-remotos
